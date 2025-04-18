@@ -3,7 +3,7 @@
     <v-container>
     <v-row>
       <v-col>
-        <v-img :src="item.itemImg" aspect-ratio="16/9" height="180" cover></v-img>
+        <v-img :src="item.itemThumbImg" aspect-ratio="16/9" height="180" cover></v-img>
       </v-col>      
     </v-row>
     <v-row>
