@@ -15,7 +15,8 @@ export default [
                 ],
                 duration: 300,
                 price: 6.99,
-                itemImg: require('/src/assets/imgs/side/side-1.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-1-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-1-main.jpg'),
                 imgCredit: 'fried-mozzarella-sticks-shameel-mukkath'
             },
             {
@@ -33,7 +34,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 8.99,
-                itemImg: require('/src/assets/imgs/side/side-2.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-2-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-2-main.jpg'),
                 imgCredit: 'crispy-deep-fried-jalapeno-peppers-jayce-lab'
             },
             {
@@ -51,7 +53,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 11.99,
-                itemImg: require('/src/assets/imgs/side/side-3.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-3-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-3-main.jpg'),
                 imgCredit: 'fried-calamri-with-lemon-wedge-shameel-mukkath'
             },
             {
@@ -67,7 +70,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 13.99,
-                itemImg: require('/src/assets/imgs/side/side-4.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-4-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-4-main.jpg'),
                 imgCredit: 'crispy-fried-chicken-wings-pixabay'
             },
             {
@@ -86,7 +90,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 5.99,
-                itemImg: require('/src/assets/imgs/side/side-5.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-5-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-5-main.jpg'),
                 imgCredit: 'garlic-bread-in-a-plate-arian-fernandez'
             },
             {
@@ -105,7 +110,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 9.99,
-                itemImg: require('/src/assets/imgs/side/side-6.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-6-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-6-main.jpg'),
                 imgCredit: 'plate-of-stuffed-mushrooms-djordje-vezilic'
             },
             {
@@ -122,7 +128,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 5.99,
-                itemImg: require('/src/assets/imgs/side/side-7.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-7-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-7-main.jpg'),
                 imgCredit: 'fried-onion-rings-ron-lach'
             },
             {
@@ -144,7 +151,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 7.99,
-                itemImg: require('/src/assets/imgs/side/side-8.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-8-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-8-main.jpg'),
                 imgCredit: 'potato-wedges-in-paper-cup-georgiana-mirela'
             },
             {
@@ -159,7 +167,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 5.99,
-                itemImg: require('/src/assets/imgs/side/side-9.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-9-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-9-main.jpg'),
                 imgCredit: 'french-fries-in-white-bowl-dzenina-lukac'
             },
             {
@@ -173,7 +182,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 2.99,
-                itemImg: require('/src/assets/imgs/side/side-10.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-10-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-10-main.jpg'),
                 imgCredit: 'popcorn-in-ceramic-bowl-mo-abrahim'
             },
 
@@ -197,7 +207,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 15.53,
-                itemImg: require('/src/assets/imgs/pizza/pizza-1.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-1-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-1-main.jpg'),
                 imgCredit: 'margherita-pizza-kampus-production'
             },
             {
@@ -212,7 +223,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 12.38,
-                itemImg: require('/src/assets/imgs/pizza/pizza-2.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-2-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-2-main.jpg'),
                 imgCredit: 'pepperoni-pizza-on-brown-wooden-table-victor-miyata'
             },
             {
@@ -232,7 +244,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 17.46,
-                itemImg: require('/src/assets/imgs/pizza/pizza-3.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-3-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-3-main.jpg'),
                 imgCredit: 'bbq-chicken-pizza-connor-mcmanus'
             },
             {
@@ -251,7 +264,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 14.95,
-                itemImg: require('/src/assets/imgs/pizza/pizza-4.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-4-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-4-main.jpg'),
                 imgCredit: 'hawaiian-pizza-amit-fulwaria'
             },
             {
@@ -273,7 +287,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 15.49,
-                itemImg: require('/src/assets/imgs/pizza/pizza-5.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-5-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-5-main.jpg'),
                 imgCredit: 'vegetable-pizza-engin-akyurt'
             },
             {
@@ -295,7 +310,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 16.99,
-                itemImg: require('/src/assets/imgs/pizza/pizza-6.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-6-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-6-main.jpg'),
                 imgCredit: 'meat-lovers-pizza-brett-jordan'
             },
             {
@@ -318,7 +334,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 17.23,
-                itemImg: require('/src/assets/imgs/pizza/pizza-7.jpg'),
+                itemThumbImg: require('/src/assets/imgs/pizza/pizza-7-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/pizza/pizza-7-main.jpg'),
                 imgCredit: 'white-pizza-polina-tankilevitch'
             },
         ],
@@ -347,7 +364,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 12.95,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-1.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-1-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-1-main.jpg'),
                 imgCredit: 'meatball-sub-on-wooden-chopping-board-rajesh-tp'
             },
             {
@@ -364,7 +382,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 8.39,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-2.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-2-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-2-main.jpg'),
                 imgCredit: 'person-holding-grilled-cheese-sandwiches-anthony-rahayel'
             },
             {
@@ -383,7 +402,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 6.83,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-3.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-3-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-3-main.jpg'),
                 imgCredit: 'blt-sandwich-on-plate-with-potato-wedges-malcolm-garret'
             },
             {
@@ -405,7 +425,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 9.34,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-4.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-4-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-4-main.jpg'),
                 imgCredit: 'closeup-of-ham-and-cheese-sandwich-vinícius-caricatte'
             },
             {
@@ -418,7 +439,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 1.50,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-5.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-5-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-5-main.jpg'),
                 imgCredit: 'four-hotdogs-on-a-black-patter-caleb-oquendo'
             },
             {
@@ -437,7 +459,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 6.51,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-6.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-6-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-6-main.jpg'),
                 imgCredit: 'hamburger-andra'
             },
             {
@@ -457,7 +480,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 7.23,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-7.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-7-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-7-main.jpg'),
                 imgCredit: 'cheeseburger-valeria-boltneva'
             },
             {
@@ -477,7 +501,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 6.58,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-8.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-8-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-8-main.jpg'),
                 imgCredit: 'veggie-burger-grooveland-designs'
             },
             {
@@ -499,7 +524,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 7.99,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-9.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-9-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-9-main.jpg'),
                 imgCredit: 'chicken-sandwich-on-wood-platter-jonatan-torres'
             },
             {
@@ -523,7 +549,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 300,
                 price: 5.99,
-                itemImg: require('/src/assets/imgs/sandwich/sandwich-10.jpg'),
+                itemThumbImg: require('/src/assets/imgs/sandwich/sandwich-10-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/sandwich/sandwich-10-main.jpg'),
                 imgCredit: 'person-holding-tuna-melt-sandwich-nano-erdozain'
             },
         ],
@@ -545,7 +572,8 @@ export default [
                 ],
                 duration: 250,
                 price: 3.99,
-                itemImg: require('/src/assets/imgs/side/side-1.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-1-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-1-main.jpg'),
                 imgCredit: 'fried-mozzarella-sticks-shameel-mukkath'
             },
             {
@@ -563,7 +591,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 5.99,
-                itemImg: require('/src/assets/imgs/side/side-2.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-2-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-2-main.jpg'),
                 imgCredit: 'crispy-deep-fried-jalapeno-peppers-jayce-lab'
             },
             {
@@ -581,7 +610,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 8.99,
-                itemImg: require('/src/assets/imgs/side/side-3.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-3-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-3-main.jpg'),
                 imgCredit: 'fried-calamri-with-lemon-wedge-shameel-mukkath'
             },
             {
@@ -597,7 +627,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 10.99,
-                itemImg: require('/src/assets/imgs/side/side-4.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-4-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-4-main.jpg'),
                 imgCredit: 'crispy-fried-chicken-wings-pixabay'
             },
             {
@@ -616,7 +647,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 2.99,
-                itemImg: require('/src/assets/imgs/side/side-5.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-5-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-5-main.jpg'),
                 imgCredit: 'garlic-bread-in-a-plate-arian-fernandez'
             },
             {
@@ -635,7 +667,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 7.99,
-                itemImg: require('/src/assets/imgs/side/side-6.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-6-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-6-main.jpg'),
                 imgCredit: 'plate-of-stuffed-mushrooms-djordje-vezilic'
             },
             {
@@ -652,7 +685,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 2.99,
-                itemImg: require('/src/assets/imgs/side/side-7.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-7-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-7-main.jpg'),
                 imgCredit: 'fried-onion-rings-ron-lach'
             },
             {
@@ -674,7 +708,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 4.99,
-                itemImg: require('/src/assets/imgs/side/side-8.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-8-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-8-main.jpg'),
                 imgCredit: 'potato-wedges-in-paper-cup-georgiana-mirela'
             },
             {
@@ -689,7 +724,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 2.99,
-                itemImg: require('/src/assets/imgs/side/side-9.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-9-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-9-main.jpg'),
                 imgCredit: 'french-fries-in-white-bowl-dzenina-lukac'
             },
             {
@@ -703,7 +739,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 1.05,
-                itemImg: require('/src/assets/imgs/side/side-10.jpg'),
+                itemThumbImg: require('/src/assets/imgs/side/side-10-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/side/side-10-main.jpg'),
                 imgCredit: 'popcorn-in-ceramic-bowl-mo-abrahim'
             },
         ],
@@ -728,7 +765,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 5.95,
-                itemImg: require('/src/assets/imgs/dessert/dessert-1.jpg'),
+                itemThumbImg: require('/src/assets/imgs/dessert/dessert-1-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/dessert/dessert-1-main.jpg'),
                 imgCredit: 'slice-of-cheesecake-wendy-wei'
             },
             {
@@ -747,7 +785,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 4.87,
-                itemImg: require('/src/assets/imgs/dessert/dessert-2.jpg'),
+                itemThumbImg: require('/src/assets/imgs/dessert/dessert-2-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/dessert/dessert-2-main.jpg'),
                 imgCredit: 'chocolate-brownie-cake-veersajid'
             },
             {
@@ -766,7 +805,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 4.51,
-                itemImg: require('/src/assets/imgs/dessert/dessert-3.jpg'),
+                itemThumbImg: require('/src/assets/imgs/dessert/dessert-3-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/dessert/dessert-3-main.jpg'),
                 imgCredit: 'slice-of-dessert-cake-on-white-plate-ionela-mat'
             },
             {
@@ -787,7 +827,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 3.75,
-                itemImg: require('/src/assets/imgs/dessert/dessert-4.jpg'),
+                itemThumbImg: require('/src/assets/imgs/dessert/dessert-4-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/dessert/dessert-4-main.jpg'),
                 imgCredit: 'three-cannolis-on-a-black-plate-valeria-boltneva'
             },
             {
@@ -806,7 +847,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 2.81,
-                itemImg: require('/src/assets/imgs/dessert/dessert-5.jpg'),
+                itemThumbImg: require('/src/assets/imgs/dessert/dessert-5-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/dessert/dessert-5-main.jpg'),
                 imgCredit: 'closeup-of-three-chocolate-chip-cookies-lisa-fotios'
             },
             {
@@ -825,7 +867,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 250,
                 price: 3.46,
-                itemImg: require('/src/assets/imgs/dessert/dessert-6.jpg'),
+                itemThumbImg: require('/src/assets/imgs/dessert/dessert-6-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/dessert/dessert-6-main.jpg'),
                 imgCredit: 'cinnamon-roll-on-plate-pixabay'
             },
         ],
@@ -842,7 +885,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 5.99,
-                itemImg: require('/src/assets/imgs/drink/drink-1.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-1-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-1-main.jpg'),
                 imgCredit: 'beer-filled-mug-on-table-engin-akyurt'
             },
             {
@@ -852,7 +896,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 7.99,
-                itemImg: require('/src/assets/imgs/drink/drink-2.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-2-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-2-main.jpg'),
                 imgCredit: 'wine-glasses-valeria-boltneva'
             },
             {
@@ -862,7 +907,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 1.52,
-                itemImg: require('/src/assets/imgs/drink/drink-3.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-3-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-3-main.jpg'),
                 imgCredit: 'photo-of-soda-cans-sebastian-coman-photography'
             },
             {
@@ -872,7 +918,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 2.51,
-                itemImg: require('/src/assets/imgs/drink/drink-4.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-4-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-4-main.jpg'),
                 imgCredit: 'iced-tea-with-lemon-slices-shameel-mukkath'
             },
             {
@@ -882,7 +929,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 2.99,
-                itemImg: require('/src/assets/imgs/drink/drink-5.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-5-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-5-main.jpg'),
                 imgCredit: 'person-pouring-creamer-in-coffee-chevanon-photography'
             },
             {
@@ -892,7 +940,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 1.68,
-                itemImg: require('/src/assets/imgs/drink/drink-6.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-6-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-6-main.jpg'),
                 imgCredit: 'glass-of-lemon-juice-rimmed-with-sugar-and-garnished-with-lemon-and-mint-designbyja'
             },
             {
@@ -902,7 +951,8 @@ export default [
                 description: 'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.',
                 duration: 100,
                 price: 1.87,
-                itemImg: require('/src/assets/imgs/drink/drink-7.jpg'),
+                itemThumbImg: require('/src/assets/imgs/drink/drink-7-thumb.jpg'),
+                itemMainImg: require('/src/assets/imgs/drink/drink-7-main.jpg'),
                 imgCredit: 'glass-of-sparkling-water-with-lime-in-it-dan-gold'
             },
         ],

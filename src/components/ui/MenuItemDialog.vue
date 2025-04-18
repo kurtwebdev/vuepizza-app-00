@@ -14,7 +14,7 @@
                 <v-row>
                     <div :class="isMobile() ? 'd-flex flex-column' : 'd-flex flex-row'">
                         <v-col>
-                            <v-img :src="item.itemImg"></v-img>
+                            <v-img :src="item.itemMainImg"></v-img>
                         </v-col>
                         <v-col>
                             <v-row>
